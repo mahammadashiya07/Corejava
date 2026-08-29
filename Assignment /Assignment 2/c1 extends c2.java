@@ -12,7 +12,7 @@ class C1 extends C2 {
     }
 }
 
-public class Question1 {
+public class Question {
 
     public static void main(String[] args) {
 
